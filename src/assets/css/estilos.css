@@ -1,0 +1,35 @@
+.contenedor {
+    width: 95%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.main {
+    width: 100%;
+    padding: 20px;
+}
+footer{
+    clear: both;
+    float: left;
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    color: rgb(75, 64, 64);
+    text-align: center;
+    font-size: small;
+    background: rgb(204, 199, 199);
+}
+header{
+    background: rgb(168, 194, 224);
+    margin: 20PX 0;
+    padding: 10px;
+}
+
+.abajo
+{
+    position: relative;
+}
+h2{
+    font-style: italic;
+    color: royalblue; 
+}
